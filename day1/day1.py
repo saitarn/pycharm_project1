@@ -4,6 +4,8 @@ def main():
     pet_name = input("What's your pet's name?")
     print("Your band name could be " + country + " " + pet_name)
 
+    print("Hello again from local after create github workflows")
+
 
 if __name__ == '__main__':
     main()
